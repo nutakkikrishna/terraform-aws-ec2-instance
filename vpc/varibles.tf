@@ -1,9 +1,0 @@
-variable vpc_name {}
-variable cidr_block {}
-variable environment {}
-variable private_subnet_cidr {}
-variable public_subnet_cidr {}
-variable azs {}
-variable region {}
-variable nat_id {}
-#variable natgwid {}
